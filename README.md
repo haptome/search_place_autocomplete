@@ -37,7 +37,7 @@ Widget build(BuildContext context) {
 }
 ```
 
-## basic implimentations
+## basic implementation
 
 ```dart
   return SearchPlaceAutoCompleteWidget(
@@ -57,7 +57,7 @@ Widget build(BuildContext context) {
 
 
 ```
-## Advanced implimentations
+## Advanced implementation
 you can get more information like the `coordinates` and the `bounds` of the place by calling
 
 ```dart
