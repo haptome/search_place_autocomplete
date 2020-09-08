@@ -2,7 +2,7 @@ name: search_place_autocomplete
 description: A Search Widget that allows users to search for a place while getting autocompletion feedback with country filter.
 version: 0.0.1
 author: Haptome <haptomee@gmail.com>
-homepage: 
+homepage: https://github.com/haptome/search_place_autocomplete
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
