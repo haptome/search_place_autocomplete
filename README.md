@@ -4,7 +4,7 @@
 This is a Flutter package that uses the Google Maps API to make a TextField that tries to autocomplete places as the user types, with simple smooth animations, providing a nice UI and UX.
 This will also provide great information about the user selected place, like the coordinates, the bounds to determine the zoom of the GoogleMap widget, and so on.
 
- <img src=".github-assets/preview.png" alt="preview" width="300"/> 
+ <img src="github-assets/preview.png" alt="preview" width="300"/> 
 
 
 
